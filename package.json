@@ -1,0 +1,17 @@
+{
+  "name": "b9-db-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mongodb": "^2.2.25",
+    "mysql": "^2.13.0",
+    "node-random-name": "^1.0.1"
+  }
+}
